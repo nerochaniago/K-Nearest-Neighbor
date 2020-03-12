@@ -9,7 +9,7 @@ train = dataset.values.tolist()
 testing = datatest.values.tolist()
 data_hasil = []
 kelas = []
-hasil = []
+
 
 nol = 0
 satu = 0
